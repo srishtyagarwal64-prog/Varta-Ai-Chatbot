@@ -54,7 +54,7 @@ Vaarta AI is an embeddable AI-powered chatbot built to help businesses provide i
 2. The widget sends the visitor's message to the backend API.
 3. The backend processes the request and invokes the configured AI service.
 4. The chatbot returns a response to the visitor.
-5. Conversation data can be stored in MongoDB for management and retrieval.
+5. Conversation data can be stored in postgresql for management and retrieval.
 
 ## 📂 Project Structure
 
