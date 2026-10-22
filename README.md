@@ -1,6 +1,6 @@
 # 🤖 Vaarta AI — AI-Powered Website Chatbot
 
-Vaarta AI is an embeddable AI-powered chatbot built to help businesses provide instant responses to website visitors. It can be integrated into websites to answer general questions and assist visitors with website-related queries through a conversational interface.
+Vaarta AI is an AI-powered chatbot built to help businesses provide instant responses to website visitors. It can be integrated into websites to answer general questions and assist visitors with website-related queries through a conversational interface.
 
 ## 🚀 Live Demo
 
